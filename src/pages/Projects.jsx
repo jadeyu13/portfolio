@@ -21,7 +21,7 @@ function Projects() {
                   <a
                     href={github}
                     target="_blank"
-                    rel="noopenner noreferrer"
+                    rel="noopener noreferrer"
                     className="github"
                   >
                     <FaGithub style={{ marginRight: 6 }} />
