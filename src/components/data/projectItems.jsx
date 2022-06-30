@@ -24,6 +24,7 @@ export const projectItems = [
     demo: "https://jadeyu13.github.io/expense-tracker/",
     image: "./images/expenses.jpeg",
   },
+ 
 ];
 
 // export default projects

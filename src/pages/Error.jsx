@@ -13,13 +13,9 @@ function Error() {
         }}>
           <h1>Error 404. Page Not Found</h1>
           <br />
-          <button style={{
-            borderRadius: "5px"}}>
-          <Link to="/" style={{
-            fontSize: "1.5rem",
-            color: "black",
-            padding: 10 }} >Homepage</Link>
-          </button>
+          
+          <Link to="/" className="error-btn" style={{color:"black"}}>Go to Homepage</Link>
+         
           
           </section>
     </>
